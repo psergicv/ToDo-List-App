@@ -13,6 +13,6 @@ Built With:
 
 Set up this projecect locally:
 
-Open the terminal in the directory where you want to install the app;
-Run command git clone https://github.com/psergicv/ToDo-List-App.git which will clone the project;
-Open & run app.py in you IDE.
+- Open the terminal in the directory where you want to install the app;
+- Run command git clone https://github.com/psergicv/ToDo-List-App.git which will clone the project;
+- Open & run app.py in you IDE.
